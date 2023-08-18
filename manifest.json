@@ -1,0 +1,10 @@
+{
+    "name": "WorldTime",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Extension for viewing worldtime",
+    "action": {
+        "default_icon": "clock.png",
+        "default_popup": "index.html"
+    }
+}
